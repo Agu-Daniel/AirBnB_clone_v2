@@ -1,1 +1,1 @@
-man
+This directory implements webpage design.
